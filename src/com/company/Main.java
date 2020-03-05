@@ -98,7 +98,7 @@ public class Main {
             if (rs_ball[j] < 6) {
                 System.out.println(" " + "-"+" " + "двоечник");
             } else if (rs_ball[j] < 8) {
-                System.out.println(" " + "-"+" " + "адекватный");
+                System.out.println(" " + "-"+" " + "хорошист");
             } else {
                 //(rs_ball[j] < 10);
                 System.out.println(" " + "-"+" " + "Отличник");
